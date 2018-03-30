@@ -2,8 +2,10 @@
 "name": "Test",
 "description": "Test",
 "version": "1.0.0",
-"main": "xd.js"
+"main": "xd.js",
 "scripts": {
+  "start": "nodemon xd.js"
+},
 "dependencies": {
 "discord.js": "11.1.0",
 "request":"2.81.0"
