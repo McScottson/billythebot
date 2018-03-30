@@ -1,1 +1,1 @@
-worker: nodemon xd.js
+worker: node xd.js
